@@ -14,7 +14,8 @@ This project uses the **Taco Sales Dataset (2024–2025)** by Atharva Soundankar
 - Taco Size & Type
 - Toppings Count
 - Distance (km)
-- Price ($) & Tip ($)
+- Price ($)
+- Tip ($)
 - Weekend Order indicator
 
 The target variable is:
